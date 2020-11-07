@@ -1,0 +1,29 @@
+body {
+    color: white;
+    background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "DM Sans";
+}
+
+
+
+#myCanvas {
+
+    background-color: white;
+
+}
+
+
+
+h3 {
+    display: inline-block;
+}
+
+
+
+#head_info {
+    width: 600px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
